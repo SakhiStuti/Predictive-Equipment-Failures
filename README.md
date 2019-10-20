@@ -1,9 +1,9 @@
 # Predictive-Equipment-Failures
 Kaggle Competition for TAMU datathon - https://www.kaggle.com/c/equipfails#
 
-data - holds the train and test data
-model - contains the model files generated
-submission - contains the submission files for kaggle
+1. data - holds the train and test data
+2. model - contains the model files generated
+3. submission - contains the submission files for kaggle
 
 Preprocessing:
 1. Imputation of missing values
